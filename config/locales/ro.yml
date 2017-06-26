@@ -1,0 +1,25 @@
+ro:
+  spree:
+    back_to_stores_list: Înapoi la lista magazinelor
+    default_currency: Valuta principală
+    send_mail_as: Trimite email ca
+    logo: Logo
+    payment_method: Metoda de plată
+    shipping_method: Metoda de livrare
+    store: Magazin
+    stores: Magazine
+    new_store: Magazin nou
+    domains: Domenii
+    stores_admin: "Magazine și domenii"
+    manage_stores: Configureaza multiple magazine și numele de domenii asociate
+    editing_store: Editează magazin
+    default: Default
+    store_name: Nume
+    store_code: Cod
+    store_default_locale: Limba principală
+    promotion_rule_types:
+      store:
+        name: Magazin
+        description: "Magazinul trebuie să fie din listă"
+    store_rule:
+      choose_stores: "Alege magazinele"

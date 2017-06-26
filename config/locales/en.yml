@@ -16,6 +16,7 @@ en:
     default: Default
     store_name: Name
     store_code: Code
+    store_default_locale: Default Language
     promotion_rule_types:
       store:
         name: Store
